@@ -1,6 +1,6 @@
 # BERT-Multilingual-Toxic-Comment-Classification
 
-# 1) Description
+# Description
 
 It only takes one toxic comment to sour an online discussion. The Conversation AI team, a research initiative founded by Jigsaw and Google, builds technology to protect voices in conversation. A main area of focus is machine learning models that can identify toxicity in online conversations, where toxicity is defined as anything rude, disrespectful or otherwise likely to make someone leave a discussion. If these toxic contributions can be identified, we could have a safer, more collaborative internet.
 
@@ -10,7 +10,7 @@ Jigsaw's API, Perspective, serves toxicity models and others in a growing set of
 
 As our computing resources and modeling capabilities grow, so does our potential to support healthy conversations across the globe. Develop strategies to build effective multilingual models and you'll help Conversation AI and the entire industry realize that potential.
 
-# 2) Evaluation
+# Evaluation
 
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
