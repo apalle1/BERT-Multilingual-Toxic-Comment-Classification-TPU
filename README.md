@@ -17,16 +17,17 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 # Models
 
 **Multilingual models** 
-bert-base-multilingual-uncased - https://huggingface.co/bert-base-multilingual-uncased
+
+bert-base-multilingual-uncased - https://huggingface.co/bert-base-multilingual-uncased <br />
 XLM-R - https://huggingface.co/xlm-roberta-base
 
 **Monolingual models** 
 
-Spanish - https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased
-Turkish - https://huggingface.co/dbmdz/bert-base-turkish-cased
-Russian - https://huggingface.co/DeepPavlov/rubert-base-cased
-Portugese - https://huggingface.co/neuralmind/bert-base-portuguese-cased
-Italian - https://huggingface.co/dbmdz/bert-base-italian-cased
+Spanish - https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased <br />
+Turkish - https://huggingface.co/dbmdz/bert-base-turkish-cased <br />
+Russian - https://huggingface.co/DeepPavlov/rubert-base-cased <br />
+Portugese - https://huggingface.co/neuralmind/bert-base-portuguese-cased <br />
+Italian - https://huggingface.co/dbmdz/bert-base-italian-cased <br />
 French - https://huggingface.co/camembert-base
 
 
