@@ -14,3 +14,19 @@ As our computing resources and modeling capabilities grow, so does our potential
 
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
+# Models
+
+**Multilingual models** 
+bert-base-multilingual-uncased - https://huggingface.co/bert-base-multilingual-uncased
+XLM-R - https://huggingface.co/xlm-roberta-base
+
+**Monolingual models** 
+
+Spanish - https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased
+Turkish - https://huggingface.co/dbmdz/bert-base-turkish-cased
+Russian - https://huggingface.co/DeepPavlov/rubert-base-cased
+Portugese - https://huggingface.co/neuralmind/bert-base-portuguese-cased
+Italian - https://huggingface.co/dbmdz/bert-base-italian-cased
+French - https://huggingface.co/camembert-base
+
+
