@@ -30,4 +30,6 @@ Portugese - https://huggingface.co/neuralmind/bert-base-portuguese-cased <br />
 Italian - https://huggingface.co/dbmdz/bert-base-italian-cased <br />
 French - https://huggingface.co/camembert-base
 
+**Using ```translators``` library with Google API, the current training dataset can be translated into Portugal, Turkish, Russian, Italy, Espanol and France languages. Monolingual models are then fine-tuned on translated data.**  
+
 
